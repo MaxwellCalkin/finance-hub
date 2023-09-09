@@ -1,4 +1,3 @@
-//eslint-disable-next-line
 import { Palette, PaletteColor } from "@mui/material/styles/createPalette";
 
 const hello: PaletteColor[] = [];
@@ -14,4 +13,3 @@ declare module "@mui/material/styles/createPalette" {
     tertiary: PaletteColor;
   }
 }
-//hello

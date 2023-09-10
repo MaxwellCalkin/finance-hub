@@ -29,7 +29,7 @@ There is a problem with Recharts where the charts don't adjust when the user shr
     <td width="33.3%"  style="align:center;" valign="top">
 <a target="_blank" href="https://wethepeople.cyclic.app">We The People</a>
         <br />
-      <a target="_blank" href="https://wethepeople.cyclic.app">
+      <a target="_blank" href="https://www.github.com/maxwellcalkin/wethepeople">
             <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/wtp.gif?raw=true" width="100%"  alt="We The People"/>
         </a>
     </td>

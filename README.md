@@ -5,21 +5,20 @@
 </a>
 
 
-### A virtual shop to browse your favorite games
+### An all in one dashboard to visualize and understand your company's finances
 
 ## Tech used: ![NODE.JS BADGE](https://img.shields.io/static/v1?label=|&message=NODE.JS&color=23555f&style=plastic&logo=node.js)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![TYPESCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=3c7f5d&style=plastic&logo=typescript)![MONGODB BADGE](https://img.shields.io/static/v1?label=|&message=MONGODB&color=3c7f5d&style=plastic&logo=mongodb)
 
 
 ## Optimizations
 
-I am thinking of turning this app into a full videogame e-shop including interactions with a cart and maybe even the ability to purchase real digital goods.
-This app is pretty well refactored, but I know I could restructure the files to make it a little cleaner.
+There is a problem with Recharts where the charts don't adjust when the user shrinks their window horizontally. If you know a workaround for this, please contact me.
 
 ## Lessons Learned:
 
-- Caching and Infinite scroll using React Query
+- React w/ Redux fundamentals
 - Production Quality Code with Typescript
-- Working with RESTful APIs with the MERN + Typescript stack
+- Deploying to fly.io using Docker
 
 
 ## More Projects
@@ -28,10 +27,10 @@ This app is pretty well refactored, but I know I could restructure the files to 
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/MaxwellCalkin/salon">Elegant Website for your Business</a>
+<a target="_blank" href="https://wethepeople.cyclic.app">We The People</a>
         <br />
-      <a target="_blank" href="https://github.com/MaxwellCalkin/salon">
-            <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/salon.gif" width="100%"  alt="Salon.com"/>
+      <a target="_blank" href="https://wethepeople.cyclic.app">
+            <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/wtp.gif?raw=true" width="100%"  alt="We The People"/>
         </a>
     </td>
     <td width="33.3%" valign="top">

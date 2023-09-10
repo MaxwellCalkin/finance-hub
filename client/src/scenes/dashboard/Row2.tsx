@@ -114,7 +114,7 @@ const Row2 = () => {
         </ResponsiveContainer>
       </DashboardBox>
       <DashboardBox gridArea="e">
-        <BoxHeader title="Campaighns and Targets" sideText="+4%" />
+        <BoxHeader title="Campaigns and Targets" sideText="+4%" />
         <FlexBetween mt="0.25rem" gap="1.5rem" pr="1rem">
           <PieChart
             width={110}
@@ -147,7 +147,7 @@ const Row2 = () => {
             </Typography>
             <Typography variant="h6">
               {" "}
-              Finance goals of the campaign that is desired
+              Finance goal of the campaign that is desired
             </Typography>
           </Box>
           <Box flexBasis="40">

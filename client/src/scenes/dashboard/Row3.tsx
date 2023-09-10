@@ -21,6 +21,7 @@ const Row3 = () => {
   const pieChartData = useMemo(() => {
     if (kpiData) {
       const totalExpenses = kpiData[0].totalExpenses;
+      console.log("total expenses: ", totalExpenses);
       return Object.entries(kpiData[0].expensesByCategory).map(
         ([key, value]) => {
           return [
@@ -153,30 +154,33 @@ const Row3 = () => {
         </Box>
       </DashboardBox>
       <DashboardBox gridArea="i">
-        <BoxHeader title="Expense VBreakdown By Category" sideText="+4%" />
+        <BoxHeader title="Expense Breakdown By Category" sideText="+4%" />
         <FlexBetween mt="0.5rem" gap="0.5rem" p="0 1rem" textAlign="center">
-          {pieChartData?.map((data, i) => (
-            <Box key={`${data[0].name} - ${i}`}>
-              <PieChart width={110} height={100}>
-                <Pie
-                  stroke="none"
-                  data={data}
-                  innerRadius={18}
-                  outerRadius={35}
-                  paddingAngle={2}
-                  dataKey="value"
-                >
-                  {data.map((entry, index) => {
-                    console.log(entry);
-                    return (
-                      <Cell key={`cell-${index}`} fill={pieColors[index]} />
-                    );
-                  })}
-                </Pie>
-              </PieChart>
-              <Typography variant="h5">{data[0].name}</Typography>
-            </Box>
-          ))}
+          {pieChartData?.map((data, i) => {
+            console.log(data, i);
+            return (
+              <Box key={`${data[0].name} - ${i}`}>
+                <PieChart width={100} height={80}>
+                  <Pie
+                    stroke="none"
+                    data={data}
+                    innerRadius={18}
+                    outerRadius={35}
+                    paddingAngle={2}
+                    dataKey="value"
+                  >
+                    {data.map((entry, index) => {
+                      console.log(entry);
+                      return (
+                        <Cell key={`cell-${index}`} fill={pieColors[index]} />
+                      );
+                    })}
+                  </Pie>
+                </PieChart>
+                <Typography variant="h5">{data[0].name}</Typography>
+              </Box>
+            );
+          })}
         </FlexBetween>
       </DashboardBox>
       <DashboardBox gridArea="j">

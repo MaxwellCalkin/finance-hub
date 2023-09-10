@@ -68,7 +68,7 @@ const KPISchema = new Schema(
     monthlyData: [monthSchema],
     dailyData: [daySchema],
     expensesByCategory: {
-      type: Object,
+      type: Map,
       of: {
         type: mongoose.Types.Currency,
         currency: "USD",

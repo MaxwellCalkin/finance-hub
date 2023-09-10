@@ -1,7 +1,7 @@
 # financeHUB: <a target="_blank" href="https://www.finance-hub-sigma.vercel.app">Visit Here</a>
 
 <a target="_blank" href="https://www.finance-hub-sigma.vercel.app">
-<img src="https://github.com/MaxwellCalkin/finance-hub/assets/101308415/64a23e35-3ec5-478d-bdbb-dd922d07f903" width="100%" alt="Portfolio"/>
+  <img src="https://github.com/MaxwellCalkin/finance-hub/assets/101308415/64a23e35-3ec5-478d-bdbb-dd922d07f903" width="100%" alt="Portfolio"/>
 </a>
 
 

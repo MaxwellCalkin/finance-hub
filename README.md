@@ -7,7 +7,7 @@
 
 ### Browse our beautiful selection of seasonal flower arrangements!
 
-## Tech used: ![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![REDUX BADGE](https://img.shields.io/static/v1?label=|&message=REDUX&color=285f65&style=plastic&logo=redux)
+## Tech used: ![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![TYPESCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=285f65&style=plastic&logo=typescript)![REDUX BADGE](https://img.shields.io/static/v1?label=|&message=REDUX&color=285f65&style=plastic&logo=redux)![MONGODB BADGE](https://img.shields.io/static/v1?label=|&message=MONGODB&color=285f65&style=plastic&logo=mongodb)
 
 
 ## Optimizations
@@ -34,10 +34,10 @@ Just a very vanilla web page. Some day I may make it more exciting :)
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/MaxwellCalkin/finance-HUB">MLB Lineup Simulator</a>
+<a target="_blank" href="https://github.com/MaxwellCalkin/MLBLineupSim">MLB Lineup Simulator</a>
       <br />
-        <a target="_blank" href="https://github.com/MaxwellCalkin/finance-HUB">
-          <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/sox.gif" width="100%" alt="Finance Hub"/>
+        <a target="_blank" href="https://github.com/MaxwellCalkin/MLBLineupSim">
+          <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/sox.gif" width="100%" alt="MLB Lineup Simulator"/>
         </a>
     </td>
     <td width="33.3%" valign="top">

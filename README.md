@@ -5,20 +5,20 @@
 </a>
 
 
-### An all in one dashboard to visualize and understand your company's finances
+### Browse our beautiful selection of seasonal flower arrangements!
 
-## Tech used: ![NODE.JS BADGE](https://img.shields.io/static/v1?label=|&message=NODE.JS&color=23555f&style=plastic&logo=node.js)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![TYPESCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=3c7f5d&style=plastic&logo=typescript)![MONGODB BADGE](https://img.shields.io/static/v1?label=|&message=MONGODB&color=3c7f5d&style=plastic&logo=mongodb)
+## Tech used: ![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![REDUX BADGE](https://img.shields.io/static/v1?label=|&message=REDUX&color=285f65&style=plastic&logo=redux)
 
 
 ## Optimizations
 
-There is a problem with Recharts where the charts don't adjust when the user shrinks their window horizontally. If you know a workaround for this, please contact me.
+Just a very vanilla web page. Some day I may make it more exciting :)
 
 ## Lessons Learned:
 
-- React w/ Redux fundamentals
-- Production Quality Code with Typescript
-- Deploying to fly.io using Docker
+- React w/ class components
+- Redux w/o toolkit
+- Deployed to Vercel
 
 
 ## More Projects
@@ -34,10 +34,10 @@ There is a problem with Recharts where the charts don't adjust when the user shr
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/MaxwellCalkin/MLBLineupSim">MLB Lineup Simulator</a>
+<a target="_blank" href="https://github.com/MaxwellCalkin/finance-HUB">MLB Lineup Simulator</a>
       <br />
-        <a target="_blank" href="https://github.com/MaxwellCalkin/MLBLineupSim">
-          <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/sox.gif" width="100%" alt="MLB Simulator"/>
+        <a target="_blank" href="https://github.com/MaxwellCalkin/finance-HUB">
+          <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/sox.gif" width="100%" alt="Finance Hub"/>
         </a>
     </td>
     <td width="33.3%" valign="top">

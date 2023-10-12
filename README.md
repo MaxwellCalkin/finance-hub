@@ -5,20 +5,20 @@
 </a>
 
 
-### Browse our beautiful selection of seasonal flower arrangements!
+### Your all in one financial hub to track your businesses revenue, expenses and profit. We use machine learning to predict your next year's numbers.
 
 ## Tech used: ![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![TYPESCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=285f65&style=plastic&logo=typescript)![REDUX BADGE](https://img.shields.io/static/v1?label=|&message=REDUX&color=285f65&style=plastic&logo=redux)![MONGODB BADGE](https://img.shields.io/static/v1?label=|&message=MONGODB&color=285f65&style=plastic&logo=mongodb)
 
 
 ## Optimizations
 
-Just a very vanilla web page. Some day I may make it more exciting :)
+Some design things I'd like to clean up. Pretty happy with how it looks though :)
 
 ## Lessons Learned:
 
-- React w/ class components
-- Redux w/o toolkit
-- Deployed to Vercel
+- React w/ Redux fundamentals
+- Recharts fun
+- Deployed to fly.io using Docker
 
 
 ## More Projects
